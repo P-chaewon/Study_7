@@ -1,0 +1,18 @@
+package com.cw.s2.token;
+
+import java.util.StringTokenizer;
+
+public class TokenMain {
+	
+	public static void main(String[] args) {
+		String str="seoul, 92, 80, 비";
+		
+		StringTokenizer st=new StringTokenizer(str,",");
+		
+		
+		
+		
+		
+	}
+
+}
