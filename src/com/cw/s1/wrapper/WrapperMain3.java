@@ -13,7 +13,7 @@ public class WrapperMain3 {
 		//3. 나머지를 11에서 빼기
 		//3-1 11에서 나머지를 뺏을 때 두 자리 이상
 		//4. 3에서 나온 결과를 다시 10으로 나누어서 그 나머지 구하기
-		// 나머지 숫자랑 체크 번호랑 같으면 올바른 번호
+		// 나머지 숫자랑 체크 번호랑 같으면 올바른 번호 
 		jumin=jumin.replace("-", "");
 		for(int i=0;i<12;i++) {
 			String n=jumin.substring(i,i+1);
